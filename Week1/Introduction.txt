@@ -1,0 +1,9 @@
+Hello everyone,
+
+
+
+My name is Dan Beck and I live in Parkville, MD. Right now, I commission and program Audio/Video systems in places such as Towson University, University of Maryland, and various government facilities. I'm majoring in Software Development and Security but unsure what direction I will take it. Once I complete my degree, I hope to be able to either advance within the AV field or change careers into anther type of programming that interests me. Something else that interests me is developing my own software and applications. Since security has become one of the most important aspects in software development, I hope to use what I learn in this course to be able to securely develop programs whether they be my own or for another company
+
+
+
+-Dan
